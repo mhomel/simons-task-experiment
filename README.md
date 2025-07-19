@@ -30,9 +30,9 @@ To measure the difference in reaction time and accuracy between:
 
 ## 📁 Files
 
-- `main.py` – core experiment logic  
-- `config.json` – customizable parameters  
-- `README.md` – you’re here  
+- `main.py` - core experiment logic  
+- `config.json` - customizable parameters  
+- `README.md` - you’re here  
 - `specyfikacja.docx` – detailed procedural specification (in Polish)
 
 ## 📚 References
