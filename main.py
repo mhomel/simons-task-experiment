@@ -383,4 +383,4 @@ logging.flush() # kończymy logowanie
 show_info(win, join('.', 'messages', 'end.txt')) # Wyświetlamy ekran końcowy
 win.close() # Zamykamy okno PsychoPy.
 
-# Koniec eksperymentu. Dziękujemy <3
+# Koniec eksperymentu.
