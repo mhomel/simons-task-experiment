@@ -1,0 +1,9 @@
+SESJA TRENINGOWA
+
+W zadaniu, które za chwilę wykonasz, na ekranie pojawiać się będą słowa „LEFT” oraz „RIGHT”. Twoim zadaniem będzie nacisnąć odpowiedni klawisz w zależności od tego, jakie słowo widzisz, ignorując miejsce jego pojawienia się na ekranie.
+Naciśnij Z, jeśli widzisz słowo LEFT
+Naciśnij M, jeśli widzisz słowo RIGHT
+
+Czas Twojej reakcji będzie mierzony. Staraj się odpowiadać szybko i poprawnie. Dokładność odpowiedzi jest równie ważna co szybkość reakcji.
+
+Aby przejść dalej, naciśnij spację.

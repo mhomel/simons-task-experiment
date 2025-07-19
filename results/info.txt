@@ -1,0 +1,1 @@
+W tym folderze będą zapisywać się dane zebrane podczas eksperymentu.
