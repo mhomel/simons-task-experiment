@@ -1,0 +1,38 @@
+# === OGÓLNE USTAWIENIA EKRANU ===
+SCREEN_RES: [1920, 1080]              # Rozdzielczość ekranu
+FRAME_RATE: 60                        # Liczba klatek na sekundę
+BACKGROUND_COLOR: darkgray            # Kolor tła (RGB #333333)
+FIX_CROSS_COLOR: black                # Kolor punktu fiksacji (RGB #000000)
+FIX_CROSS_SIZE: 96              # Rozmiar punktu fiksacji (~5% ekranu)
+
+# === BODŹCE ===
+STIM_LETTERS: ['LEFT', 'RIGHT']       # Słowa-bodźce
+STIM_COLOR: white                     # Kolor tekstu bodźca
+STIM_SIZE: 108                        # Rozmiar czcionki (10% wysokości ekranu)
+STIM_SHIFT: 480                       # Odległość bodźca od środka (1/4 szerokości)
+
+# === CZAS PREZENTACJI I ODPOWIEDZI ===
+FIX_CROSS_TIME: 48                    # Czas punktu fiksacji: 800 ms = 48 klatek
+STIM_TIME: 240                        # Max czas prezentacji bodźca: 4000 ms
+REACTION_TIME: 240                    # Max czas reakcji: 4000 ms
+MIN_REACTION_FRAMES: 12               # Minimalny akceptowany czas reakcji: 200 ms
+MAX_WAIT: 7200                        # Maksymalny czas prezentacji komunikatu: 2 min
+
+# === REAKCJE ===
+REACTION_KEYS: ['z', 'm']             # Klawisze reakcji (Z=LEFT, M=RIGHT)
+
+# === STRUKTURA SESJI ===
+NO_TRAINING_TRIALS: 20                # Liczba prób treningowych
+NO_BLOCKS: 4                          # Liczba bloków eksperymentalnych
+TRIALS_IN_BLOCK: 60                   # Liczba prób w jednym bloku
+TRIALS_REPETITION: 4                  # Maksymalna ilość sekwencji identycznych prób
+
+# === JITTER ===
+JITTER_TIME_RANGE: [60, 120]          # Odstęp między próbami: 1–2 sekundy
+
+# === INFORMACJA ZWROTNA ===
+FEEDBACK_TIME: 120                    # Czas wyświetlania zwrotu: 2000 ms
+FEEDBACK_CORRECT_TEXT: "dobrze"       # Tekst przy poprawnej odpowiedzi
+FEEDBACK_INCORRECT_TEXT: "źle"        # Tekst przy błędnej odpowiedzi
+FEEDBACK_COLOR_CORRECT: green         # Kolor tekstu „dobrze”
+FEEDBACK_COLOR_INCORRECT: red         # Kolor tekstu „źle”
